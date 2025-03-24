@@ -171,6 +171,4 @@ cython_debug/
 .pypirc
 
 # Database
-dataset/test/
-dataset/train/
-dataset/validation/
+*.jpg
